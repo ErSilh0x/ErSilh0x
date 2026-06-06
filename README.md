@@ -30,11 +30,11 @@ I am a vulnerability analyst and cybersecurity researcher focused on practical s
 
 
 ## Certification Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 5px;' align='center'>
 <a href="#">
-<img src="https://raw.githubusercontent.com/" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oscp%2B.png" width="100px" height="100px" />
 <a href="#">
-<img src="https://raw.githubusercontent.com/" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oswp.png" width="100px" height="100px" />
 </div>
 
 
