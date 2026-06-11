@@ -30,7 +30,6 @@ practical security, vulnerability validation, and building projects that
           <img alt="OWASP%20ZAP" src="https://img.shields.io/badge/OWASP-11151A?style=flat-square&amp;logo=OWASP&amp;logoColor=E9E6DE">
           <img alt="Nmap" src="https://img.shields.io/badge/Nmap-11151A?style=flat-square&amp;logo=kalilinux&amp;logoColor=E9E6DE">
           <img alt="Kismet" src="https://img.shields.io/badge/Kismet-11151A?style=flat-square&amp;logo=kalilinux&amp;logoColor=E9E6DE">
-          <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-11151A?style=flat-square&amp;logo=Nuclei&amp;logoColor=E9E6DE">
         </div><br>
         <p class="lbl">DEFENCE · VULN MGMT</p>
         <div class="badges">
@@ -38,10 +37,11 @@ practical security, vulnerability validation, and building projects that
                 <img alt="NGFW" src="https://img.shields.io/badge/NGFW-11151A?style=flat-square&amp;logo=Cisco&amp;logoColor=E9E6DE">
                 <img alt="honeypots" src="https://img.shields.io/badge/honeypots-11151A?style=flat-square&amp;logo=snort&amp;logoColor=E9E6DE">
                 <img alt="forensics" src="https://img.shields.io/badge/forensics-11151A?style=flat-square&amp;logo=kalilinux&amp;logoColor=E9E6DE">
-                <img alt="Nessus" src="https://img.shields.io/badge/Nessus-11151A?style=flat-square&amp;logo=tenable&amp;logoColor=E9E6DE">
+                <img alt="Nessus" src="https://img.shields.io/badge/Nessus-11151A?style=flat-square&amp;logo=lighthouse&amp;logoColor=E9E6DE">
                 <img alt="Qualys" src="https://img.shields.io/badge/Qualys-11151A?style=flat-square&amp;logo=Qualys&amp;logoColor=E9E6DE">
-                <img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-11151A?style=flat-square&amp;logo=Acunetix&amp;logoColor=E9E6DE">
-                <img alt="Rapid7" src="https://img.shields.io/badge/Rapid7-11151A?style=flat-square&amp;logo=Rapid7&amp;logoColor=E9E6DE">
+                <img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-11151A?style=flat-square&amp;logo=lighthouse&amp;logoColor=E9E6DE">
+                <img alt="Rapid7" src="https://img.shields.io/badge/Rapid7-11151A?style=flat-square&amp;logo=lighthouse&amp;logoColor=E9E6DE">
+                <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-11151A?style=flat-square&amp;logo=lighthouse&amp;logoColor=E9E6DE">
         </div>
 
 <hr>
