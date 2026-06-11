@@ -7,34 +7,52 @@
 practical security, vulnerability validation, and building projects that
  help people understand real risks.</p>
 
- 
+<h2><code>▴</code> &nbsp; TECH STACK</h2>
+        <p class="lbl">TECH STACK</p>
+        <div class="badges">
+          <img alt="Python" src="https://img.shields.io/badge/Python-11151A?style=flat-square&amp;logo=python&amp;logoColor=E9E6DE">
+          <img alt="Bash" src="https://img.shields.io/badge/Bash-11151A?style=flat-square&amp;logo=gnubash&amp;logoColor=E9E6DE">
+          <img alt="Mysql" src="https://img.shields.io/badge/Mysql-11151A?style=flat-square&amp;logo=Mysql&amp;logoColor=E9E6DE">
+          <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-11151A?style=flat-square&amp;logo=Postgresql&amp;logoColor=E9E6DE">
+          <img alt="Pandas" src="https://img.shields.io/badge/Pandas-11151A?style=flat-square&amp;logo=Pandas&amp;logoColor=E9E6DE">
+          <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter Notebook-11151A?style=flat-square&amp;logo=Jupyter&amp;logoColor=E9E6DE">
+        </div>
+        <p class="lbl">OFFENSIVE TOOLING</p>
+        <div class="badges">
+          <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-11151A?style=flat-square&amp;logo=kalilinux&amp;logoColor=E9E6DE">
+          <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-11151A?style=flat-square&amp;logo=burpsuite&amp;logoColor=E9E6DE">
+          <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-11151A?style=flat-square&amp;logo=metasploit&amp;logoColor=E9E6DE">
+          <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-11151A?style=flat-square&amp;logo=wireshark&amp;logoColor=E9E6DE">
+          <img alt="OWASP%20ZAP" src="https://img.shields.io/badge/OWASP-11151A?style=flat-square&amp;logoColor=E9E6DE">
+          <img alt="Nmap" src="https://img.shields.io/badge/Nmap-11151A?style=flat-square&amp;logoColor=E9E6DE">
+          <img alt="Kismet" src="https://img.shields.io/badge/Kismet-11151A?style=flat-square&amp;logoColor=E9E6DE">
+          <img alt="Nuclei" src="https://img.shields.io/badge/Nuclei-11151A?style=flat-square&amp;logoColor=E9E6DE">
+        </div>
+        <p class="lbl">DEFENCE · VULN MGMT · ENVIRONMENT</p>
+        <div class="badges">
+          <img alt="Nessus" src="https://img.shields.io/badge/Nessus-11151A?style=flat-square&amp;logoColor=E9E6DE">
+                                <img alt="Git" src="https://img.shields.io/badge/Git-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="Qualys" src="https://img.shields.io/badge/Qualys-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="Rapid7" src="https://img.shields.io/badge/Rapid7-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="IPS%20IDS" src="https://img.shields.io/badge/Snort-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="NGFW" src="https://img.shields.io/badge/Cisco-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="honeypots" src="https://img.shields.io/badge/honeypots-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+                <img alt="forensics" src="https://img.shields.io/badge/forensics-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+          <img alt="Linux" src="https://img.shields.io/badge/Linux-11151A?style=flat-square&amp;logo=linux&amp;logoColor=E9E6DE">
+          <img alt="Git" src="https://img.shields.io/badge/Git-11151A?style=flat-square&amp;logo=git&amp;logoColor=E9E6DE">
+        </div>
 
-<b>🛠 Tech Stack</b><br><br>
-<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-Postgresql-2275B2?logo=Postgresql&logoColor=white&style=flat"> &nbsp; 
-<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Jupyter Notebook-F09437?logo=Jupyter&logoColor=white&style=flat">&nbsp;
-<br>
-<!--- Tools and Platforms: -->
-<img src="https://img.shields.io/badge/-Kali%20Linux-red?logo=Offsec&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-Burp%20Suite-red?logo=portswigger&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-OWASP%20ZAP-red?logo=OWASP&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Kismet-red?logo=Kismet&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Nuclei-red?logo=Projectdiscovery&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Nmap-red?logo=Nmap&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Qualys%20VMDR-0E7ACE?logo=Qualys&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Acunetix-0E7ACE?logo=Acunetix&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Rapid7%20InsightVM-0E7ACE?logo=Rapid7&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Nessus-0E7ACE?logo=Tenable&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-IPS%20IDS-0E7ACE?logo=IPS&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-NGFW-0E7ACE?logo=NGFW&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-honeypots-0E7ACE?logo=honeypots&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-forensics-0E7ACE?logo=forensics&logoColor=orange&style=flat">&nbsp;
-<br>
+<hr>
 
+<h2><code>▴</code> &nbsp; CERTIFICATION BADGES</h2>
+        <div class="badges">
+          <img alt="OSCP" src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oscp%2B.png" width="100px" height="100px">
+          <img alt="OSWP" src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oswp.png" width="100px" height="100px">
+        </div>
 
+<hr>
+<!--
 ## Certification Badges
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
 <a href="#">
@@ -42,25 +60,16 @@ practical security, vulnerability validation, and building projects that
 <a href="#">
 <img src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oswp.png" width="100px" height="100px" />
 </div>
+-->
 
+<h2><code>▴</code> &nbsp; CURRENT PROJECTS:</h2>
+        <pre>
+        [+] Building BitrixProbe — a Python toolkit for Bitrix security assessment.
+        [+] Researching vulnerability intelligence &amp; prioritization using CISA KEV, EPSS, CVSS.
+        [+] Developing Vulnerability prioritization framework.
+        </pre>
 
-<br><br>
-<b>🔭 This GitHub is my public cybersecurity lab</b><br><br>
-<b>Here I publish and develop:</b><br>
-📕 security research notes;<br>
-📕 Python tools for vulnerability analysis and assessment;<br>
-📕 vulnerability management;<br>
-📕 defensive and offensive security;<br>
-📕 technical writeups, datasets, and proof-of-concept ideas;<br>
-📕 practical tooling for real-world security.<br><br>
-
-
-<b>Currently I'm:</b><br>
-
-[+] Building BitrixProbe — a Python toolkit for Bitrix security assessment.<br>
-[+] Researching vulnerability intelligence & prioritization using CISA KEV, EPSS, CVSS.<br>
-[+] Developing Vulnerability prioritization framework.<br><br>
-
+<hr>
 
 <!--
 <b>Show some ❤️ by starring some of the repositories!</b><br>
