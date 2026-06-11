@@ -26,7 +26,7 @@ practical security, vulnerability validation, and building projects that
           <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-11151A?style=flat-square&amp;logo=burpsuite&amp;logoColor=E9E6DE">
           <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-11151A?style=flat-square&amp;logo=metasploit&amp;logoColor=E9E6DE">
           <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-11151A?style=flat-square&amp;logo=wireshark&amp;logoColor=E9E6DE">
-          <img alt="OWASP%20ZAP" src="https://img.shields.io/badge/OWASP-11151A?style=flat-square&amp;logo=OWASP&amp;logoColor=E9E6DE">
+          <img alt="OWASP%20ZAP" src="https://img.shields.io/badge/OWASP%20ZAP-11151A?style=flat-square&amp;logo=OWASP&amp;logoColor=E9E6DE">
           <img alt="Nmap" src="https://img.shields.io/badge/Nmap-11151A?style=flat-square&amp;logo=kalilinux&amp;logoColor=E9E6DE">
           <img alt="Kismet" src="https://img.shields.io/badge/Kismet-11151A?style=flat-square&amp;logo=linux&amp;logoColor=E9E6DE">
         </div><br>
