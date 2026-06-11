@@ -5,7 +5,7 @@
 <h2><code>▴</code> &nbsp; ABOUT ME</h2>
         <p style="">I am a vulnerability analyst and cybersecurity researcher focused on 
 practical security, vulnerability validation, and building projects that
- help people understand real risks.</p>
+ help people understand real risks.</p><br>
 
 <h2><code>▴</code> &nbsp; TECH SKILLS</h2>
         <p class="lbl">LANGUAGES · ENVIRONMENT</p>
@@ -51,15 +51,6 @@ practical security, vulnerability validation, and building projects that
         </div>
 
 <hr>
-<!--
-## Certification Badges
-<div style='display:flex; align-items:center; gap: 5px;' align='center'>
-<a href="#">
-<img src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oscp%2B.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://raw.githubusercontent.com/ErSilh0x/ErSilh0x/refs/heads/main/img/oswp.png" width="100px" height="100px" />
-</div>
--->
 
 <h2><code>▴</code> &nbsp; CURRENT PROJECTS:</h2>
         <pre>
@@ -68,9 +59,8 @@ practical security, vulnerability validation, and building projects that
 [+] Developing Vulnerability prioritization framework.
         </pre>
 
-<hr>
-
 <!--
+<hr>
 <b>Show some ❤️ by starring some of the repositories!</b><br>
 its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
