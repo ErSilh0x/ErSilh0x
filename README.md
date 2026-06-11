@@ -52,7 +52,8 @@ I am a vulnerability analyst and cybersecurity researcher focused on practical s
 <b>Currently I'm:</b><br>
 
 [+] Building BitrixProbe — a Python toolkit for Bitrix security assessment.<br>
-[+] Researching vulnerability intelligence & prioritization using CISA KEV, EPSS, CVSS.<br><br>
+[+] Researching vulnerability intelligence & prioritization using CISA KEV, EPSS, CVSS.<br>
+[+] Developing Vulnerability prioritization framework.<br><br>
 
 
 <!--
