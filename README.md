@@ -5,7 +5,9 @@
 <h2><code>▴</code> &nbsp; ABOUT ME</h2>
         <p style="">I am a vulnerability analyst and cybersecurity researcher focused on 
 practical security, vulnerability validation, and building projects that
- help people understand real risks.</p><br>
+ help people understand real risks.</p>
+
+<hr>
 
 <h2><code>▴</code> &nbsp; TECH SKILLS</h2>
         <p class="lbl">LANGUAGES · ENVIRONMENT</p>
