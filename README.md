@@ -1,7 +1,13 @@
-## Hello World! 👋
+<code>STATUS ▸ ON THE WIRE</code></p>
+<!--- <blockquote><p><em>Text</em></p></blockquote> -->
 
-**About Me**👨🏻‍💻<br><br> <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
-I am a vulnerability analyst and cybersecurity researcher focused on practical security, vulnerability validation, and building projects that help people understand real risks.<br><br>
+
+<h2><code>▴</code> &nbsp; ABOUT ME</h2>
+        <p style="">I am a vulnerability analyst and cybersecurity researcher focused on 
+practical security, vulnerability validation, and building projects that
+ help people understand real risks.</p>
+
+ 
 
 <b>🛠 Tech Stack</b><br><br>
 <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
