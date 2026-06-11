@@ -55,9 +55,8 @@ I am a vulnerability analyst and cybersecurity researcher focused on practical s
 [+] Researching vulnerability intelligence & prioritization using CISA KEV, EPSS, CVSS.<br><br>
 
 
-<b>Show some ❤️ by starring some of the repositories!</b><br>
-
 <!--
+<b>Show some ❤️ by starring some of the repositories!</b><br>
 its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
