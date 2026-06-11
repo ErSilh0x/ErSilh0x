@@ -61,7 +61,6 @@ practical security, vulnerability validation, and building projects that
         </pre>
 
 <!--
-<hr>
 <b>Show some ❤️ by starring some of the repositories!</b><br>
 its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
