@@ -55,9 +55,9 @@ practical security, vulnerability validation, and building projects that
 
 <h2><code>▴</code> &nbsp; CURRENT PROJECTS:</h2>
         <pre>
-[+] Building BitrixProbe — a Python toolkit for Bitrix security assessment.
+[+] Developing WildWebApps — a hands-on knowledge base of web vulnerabilities.
 [+] Researching vulnerability intelligence &amp; prioritization using CISA KEV, EPSS, CVSS.
-[+] Developing Vulnerability prioritization framework.
+[+] Building Vulnerability prioritization engine.
         </pre>
 
 <!--
