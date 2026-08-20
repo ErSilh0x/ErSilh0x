@@ -57,7 +57,7 @@ practical security, vulnerability validation, and building projects that
         <pre>
 [+] Developing WildWebApps — a hands-on knowledge base of web vulnerabilities.
 [+] Researching vulnerability intelligence &amp; prioritization using CISA KEV, EPSS, CVSS.
-[+] Building Vulnerability prioritization engine.
+[+] Building Vulnerability Prioritisation & Awareness Engine.
         </pre>
 
 <!--
